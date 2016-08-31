@@ -1,4 +1,3 @@
-layout_spectrum: 0.04688383894972503
 typography_spectrum: 0.16130342823453248
 color:
   brandStrength: 0.26378164533525705
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
-name: vaitsa schools.gr
+layout_spectrum: 0.04688383894972503
+name: Vaitsa Schools
+title: Το όνομα της επιτυχίας
