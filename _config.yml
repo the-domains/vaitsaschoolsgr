@@ -14,6 +14,10 @@ layout_spectrum: 0.04688383894972503
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/71936d8d-6aac-463a-ac04-8cf6a4e4212f.jpg
 name: Vaitsa Schools
+navigation:
+  - name: PROFILE – Ποιοι είμαστε
+    id: 81cacad3-edb8-45a3-b76b-82a408371432
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/629a6e82-7200-4b76-86ed-44bda7bcc89d.jpg
 title: Το όνομα της επιτυχίας
