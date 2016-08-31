@@ -1,7 +1,7 @@
 ---
 description: 'Η Διεύθυνση:'
-dateModified: '2016-08-29T16:31:04.697Z'
-datePublished: '2016-08-29T16:31:05.093Z'
+dateModified: '2016-08-29T19:07:53.812Z'
+datePublished: '2016-08-29T19:07:53.970Z'
 title: 'Κανονισμός λειτουργίας '
 author: []
 sourcePath: _posts/2016-06-23-kanonismos-leitoyrgias.md
