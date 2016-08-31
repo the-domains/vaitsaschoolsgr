@@ -9,8 +9,8 @@ description: >-
   η φροντίδα για τον κάθε μαθητή ξεχωριστά και η τακτική επικοινωνία με τους
   γονείς αποτελούσαν και αποτελούν ακόμα τα κύρια χαρακτηριστικά του σχολείου
   μας.
-dateModified: '2016-08-29T19:08:08.159Z'
-datePublished: '2016-08-29T19:08:08.396Z'
+dateModified: '2016-08-29T19:09:08.455Z'
+datePublished: '2016-08-29T19:09:09.310Z'
 title: PROFILE – Ποιοι είμαστε
 author: []
 sourcePath: _posts/2016-06-23-profile-poioi-eimaste.md
