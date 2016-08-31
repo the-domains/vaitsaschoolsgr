@@ -21,6 +21,9 @@ navigation:
   - name: 'Κανονισμός λειτουργίας '
     id: 99b052d6-cd4a-47dc-9690-00ee1dd64f26
     type: content
+  - name: Πρόσβαση
+    id: da0ef544-49ce-440d-88c7-fabc0323f070
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/629a6e82-7200-4b76-86ed-44bda7bcc89d.jpg
 title: Το όνομα της επιτυχίας
