@@ -4,7 +4,7 @@
         <description><![CDATA[Το όνομα της επιτυχίας]]></description>
         <link>https://thegrid.ai/vaitsaschoolsgr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 16:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 16:28:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vaitsaschoolsgr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c887806-d66f-4faa-95fa-ce3d552d5931.jpg</link>
             <guid isPermaLink="false">8cb64d87-e25c-448f-a98a-2441cad04eb4</guid>
             <pubDate>Mon, 29 Aug 2016 16:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb2a1e0e-1ea8-4e87-a81b-64d6644f156d.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb2a1e0e-1ea8-4e87-a81b-64d6644f156d.png</link>
+            <guid isPermaLink="false">91bf24d5-4c5c-4aa9-815a-5905dbb27b66</guid>
+            <pubDate>Mon, 29 Aug 2016 16:28:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
